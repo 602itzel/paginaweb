@@ -1,0 +1,23 @@
+
+Detalles del alojamiento principal
+Nombre de usuario del panel de control
+b5_25823101
+Contraseña del panel de control	**********
+URL del panel de control
+cpanel.byethost5.com
+Nombre de usuario MySQL
+b5_25823101
+Contraseña de MySQL
+**********
+Nombre de host MySQL
+sql113.byethost5.com
+Nombre de usuario FTP
+b5_25823101
+Contraseña FTP
+**********
+Nombre de host FTP	ftp.byethost5.com
+
+
+URL de su sitio web
+Página de inicio
+http://sitioweb.byethost5.com
